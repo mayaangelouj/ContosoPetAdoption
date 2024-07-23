@@ -1,0 +1,14 @@
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\Student-6\OneDrive\Documents\DEVM\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\ref\Starter.dll
